@@ -5,4 +5,5 @@ Beecrowd
 
 Aluno bolsista Apoio Tecnico DataScience
 
-Gincana trablho em sala(equipe)
+participação na gincana trablho em sala(equipe 6)
+
